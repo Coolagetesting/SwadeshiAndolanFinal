@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20263458071",
+    "firebase_url": "https://coolage-swadeshi.firebaseio.com",
+    "project_id": "coolage-swadeshi",
+    "storage_bucket": "coolage-swadeshi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20263458071:android:3f7e2da0e273bfe4e8d352",
+        "android_client_info": {
+          "package_name": "com.swadeshiandolan.web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20263458071-hjocnibeil79ibbpqm270fk9qmi9hs71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBPsNo5wP_e_j0vgcQjJhPDitPVMJUIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20263458071-hjocnibeil79ibbpqm270fk9qmi9hs71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
